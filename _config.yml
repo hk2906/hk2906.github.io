@@ -4,4 +4,5 @@ description: A little website to justify paying for this domain
 show_downloads: false
 logo: assets/profile.jpg
 
-is_project_page: false
+guthub:
+  is_project_page: false
