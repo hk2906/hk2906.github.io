@@ -14,7 +14,7 @@ Creating a KWin script for KDE Plasma that dynamically creates and removes virtu
 
 Identifying ideal streets for pedestrianisation, using Python and data from OpenStreetMap to estimate the importance of streets using the Eigendata Centrality, and performing simple traffic flow analysis to estimate the impact of closing important roads to vehicles
 
-Publicly available soon
+[View on GitHub](https://github.com/hk2906/Undergrad-Project)
 
 **2021: Java Game Group Project**
 
