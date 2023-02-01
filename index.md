@@ -1,4 +1,4 @@
-# Projects
+## Projects
 
 **2023: Digital Twins Group Project**
 
@@ -30,7 +30,7 @@ Managing an Ubuntu server acting as a NAS, personal VPN, and web server. Require
 
 Developed a set of tools to streamline the menus of restaurants and fast food businesses. Used Java and SQL to analyse a set of menus, recipes, and sales data to identify ingredients required for dishes that make a low overall profit. The tools considered the cost to purchase ingredients, the price of dishes, and the sales figures for every dish
 
-# Interests
+## Interests
 
 - Software development, with a focus on legibility and good documentation
 
@@ -42,7 +42,7 @@ Developed a set of tools to streamline the menus of restaurants and fast food bu
 
 - Good user interface design, and the need for technology to be straightforward, intuitive, and “feel right”
 
-# Education
+## Education
 
 **2019 - 2023: MEng Computer Science, University of York**
 - Currently averaging a First-class Honours
@@ -57,7 +57,7 @@ Developed a set of tools to streamline the menus of restaurants and fast food bu
 - 8 GCSEs: 2 A*s (Computer Science & Further Mathematics), 6 As
 
 
-# Work & Voluntary Experience
+## Work & Voluntary Experience
 
 **2020 - 2022: President, Comic Society, University of York**
 Hosted weekly events and fostered a community, both in-person and online, during a difficult period for societies
@@ -65,7 +65,7 @@ Hosted weekly events and fostered a community, both in-person and online, during
 **2017 - 2019: Team Leader, Blue Ginger, Oldham**
 Managed a busy takeaway both individually and as part of a team. Co-ordinated employees, handled money and documented daily income and expenses. Communicated clearly with staff members for whom English is a second language
 
-# Technical Skills
+## Technical Skills
 
 - Quick to learn new programming languages and tools
 
