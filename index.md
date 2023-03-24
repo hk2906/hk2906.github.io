@@ -20,7 +20,7 @@ Identifying ideal streets for pedestrianisation, using Python and data from Open
 
 Part of a team with no previous game development experience who developed a 2D game in Java based on a list of requirements, and improved a game created by another team. Learned to use LibGDX, use Git, and work as part of a remote team based in multiple countries
 
-View at [Team's website](https://team-zanetta.github.io/) and [GitHub Organisation](https://github.com/Team-Zanetta) (contributed under [university account](https://github.com/hk944))
+View at [Team's website](https://team-zanetta.github.io/) and [GitHub Organisation](https://github.com/Team-Zanetta) 
 
 **2020-23: Home Server**
 
