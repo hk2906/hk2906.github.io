@@ -1,3 +1,6 @@
+## About Me
+I am a fourth year computer science student eager to apply my skills and knowledge in a professional setting. As a team leader at a takeaway restaurant I gained leadership skills, and studying for my degree during the pandemic has taught me a combination of both independent and team working skills, in both an in-person and remote working setting. I am excited to continue my professional development and contribute to innovative and impactful projects.
+
 ## Projects
 
 **2023: Digital Twins Group Project**
