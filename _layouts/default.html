@@ -24,9 +24,10 @@
 
         {{site.pronouns}}
 
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
         {% include social-media-links.html %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
 
       </header>
       <section>
