@@ -18,15 +18,15 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        <p>{{site.pronouns}}</p>
-
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p>{{site.pronouns}}</p>
 
         {% include social-media-links.html %}
+
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
 
       </header>
       <section>
