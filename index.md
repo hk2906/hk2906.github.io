@@ -3,7 +3,7 @@ I am a fourth year computer science student eager to apply my skills and knowled
 
 ## Projects
 
-**2023: Digital Twins Group Project**
+**2023: Master's Group Project - Digital Twins**
 
 Currently working as part of a team to develop a system for creating digital twins, and using the system on a “Mars rover” built using the Lego Spike kit
 
@@ -13,7 +13,7 @@ Creating a KWin script for KDE Plasma that dynamically creates and removes virtu
 
 [View on GitHub](https://github.com/hk2906/dynamic-desktops)
 
-**2021-22: How Important is a City Street?**
+**2021-22: Third Year Project - How Important is a City Street?**
 
 Identifying ideal streets for pedestrianisation, using Python and data from OpenStreetMap to estimate the importance of streets using the Eigendata Centrality, and performing simple traffic flow analysis to estimate the impact of closing important roads to vehicles
 
