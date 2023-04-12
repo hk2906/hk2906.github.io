@@ -1,6 +1,7 @@
 ## About Me
 I am a fourth year computer science student eager to apply my skills and knowledge in a professional setting. As a team leader at a takeaway restaurant I gained leadership skills, and studying for my degree during the pandemic has taught me a combination of both independent and team working skills, in both an in-person and remote working setting. I am excited to continue my professional development and contribute to innovative and impactful projects.
 
+
 ## Projects
 
 **2023: Master's Group Project - Digital Twins**
@@ -41,17 +42,6 @@ Managing an Ubuntu server acting as a NAS, personal VPN, and web server. Require
 
 Developed a set of tools to streamline the menus of restaurants and fast food businesses. Used Java and SQL to analyse a set of menus, recipes, and sales data to identify ingredients required for dishes that make a low overall profit. The tools considered the cost to purchase ingredients, the price of dishes, and the sales figures for every dish
 
-## Interests
-
-- Software development, with a focus on legibility and good documentation
-
-- Machine learning, its possibilities for reducing workload & improving productivity, how we can further improve it, and the ethical considerations that need to be made
-
-- Free and open source software, and the ways it allows us to take control over our digital lives
-
-- Small Web / web0, and the possibility of decentralised technology empowering individuals without the additional problems of blockchain technology
-
-- Good user interface design, and the need for technology to be straightforward, intuitive, and “feel right”
 
 ## Education
 
@@ -76,6 +66,7 @@ Hosted weekly events and fostered a community, both in-person and online, during
 **2017 - 2019: Team Leader, Blue Ginger, Oldham**
 Managed a busy takeaway both individually and as part of a team. Co-ordinated employees, handled money and documented daily income and expenses. Communicated clearly with staff members for whom English is a second language
 
+
 ## Technical Skills
 
 - Quick to learn new programming languages and tools
@@ -91,3 +82,16 @@ Managed a busy takeaway both individually and as part of a team. Co-ordinated em
 - Experience with languages and tools such as EssencePrime & Savile Row, the Eclipse Modeling Framework, and the KWin scripting API
 
 - Experience using Windows and Linux both in the command line and with desktop environments such as GNOME, KDE Plasma, and Xfce
+
+
+## Interests
+
+- Software development, with a focus on legibility and good documentation
+
+- Machine learning, its possibilities for reducing workload & improving productivity, how we can further improve it, and the ethical considerations that need to be made
+
+- Free and open source software, and the ways it allows us to take control over our digital lives
+
+- Small Web / web0, and the possibility of decentralised technology empowering individuals
+
+- Simplistic user interface design, and the need for technology to be straightforward, intuitive, and “feel right”
