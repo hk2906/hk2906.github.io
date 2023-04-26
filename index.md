@@ -38,7 +38,7 @@ View at [Team's website](https://team-zanetta.github.io/) and [GitHub Organisati
 
 Managing an Ubuntu server acting as a NAS, personal VPN, and web server. Required understanding of Linux, Docker, and networking, along with a commitment to maintenance and troubleshooting
 
-**2018: Menu Streamlining**
+**2018: Menu Streamlining Toolkit**
 
 Developed a set of tools to streamline the menus of restaurants and fast food businesses. Used Java and SQL to analyse a set of menus, recipes, and sales data to identify ingredients required for dishes that make a low overall profit. The tools considered the cost to purchase ingredients, the price of dishes, and the sales figures for every dish
 
