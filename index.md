@@ -28,7 +28,7 @@ Identifying ideal streets for pedestrianisation, using Python and data from Open
 
 [View on GitHub](https://github.com/hk2906/Undergrad-Project)
 
-**2021: Java Game Group Project**
+**2020-2021: Java Game Group Project**
 
 Part of a team with no previous game development experience who developed a 2D game in Java based on a list of requirements, and improved a game created by another team. Learned to use LibGDX, use Git, and work as part of a remote team based in multiple countries
 
