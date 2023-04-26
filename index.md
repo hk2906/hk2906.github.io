@@ -12,7 +12,7 @@ Repository will become available after end of assessment period
 
 **2023: Parallelising Fluid Dynamics Solver**
 
-Issued a computational fluid dynamics solver for simulating a Karman vortex street, written in C.  Currently working to create 3 parallelised versions of the program, using OpenMP, CUDA, and MPI.
+Issued a computational fluid dynamics solver for simulating a Karman vortex street, written in C.  Created 3 parallelised versions of the program, using OpenMP, CUDA, and MPI.
 
 Repository will become available after end of assessment period
 
