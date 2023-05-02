@@ -61,7 +61,7 @@ Developed a set of tools to streamline the menus of restaurants and fast food bu
 ## Work & Voluntary Experience
 
 **2020 - 2022: President, Comic Society, University of York**
-Hosted weekly events and fostered a community, both in-person and online, during a difficult period for societies
+Lead a team to host weekly events and foster a community, both in-person and online, during a difficult period for societies.
 
 **2017 - 2019: Team Leader, Blue Ginger, Oldham**
 Managed a busy takeaway both individually and as part of a team. Co-ordinated employees, took and organised orders, prepared food, opened and closed the shop, handled large amounts of money, documented daily revenue and expenses, trained new employees, and scheduled shifts.  
