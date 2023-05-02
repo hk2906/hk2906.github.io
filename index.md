@@ -64,8 +64,7 @@ Developed a set of tools to streamline the menus of restaurants and fast food bu
 Lead a team to host weekly events and foster a community, both in-person and online, during a difficult period for societies.
 
 **2017 - 2019: Team Leader, Blue Ginger, Oldham**
-Managed a busy takeaway both individually and as part of a team. Co-ordinated employees, took and organised orders, prepared food, opened and closed the shop, handled large amounts of money, documented daily revenue and expenses, trained new employees, and scheduled shifts.  
-Worked well in a busy kitchen, whilst also serving customers, and communicated clearly with staff members for whom English is a second language. Lead the team during busier periods, and ensured the whole team worked well under intense situations. Also operated the shop independently, with only a chef and a delivery driver present.
+Managed a busy takeaway both individually and as part of a team. Co-ordinated employees, took and organised orders, prepared food, opened and closed the shop, handled large amounts of money, documented daily revenue and expenses, trained new employees, and scheduled shifts. Worked well in a busy kitchen, whilst also serving customers, and communicated clearly with staff members for whom English is a second language. Lead the team during busier periods, and ensured the whole team worked well under intense situations. Also operated the shop independently, with only a chef and a delivery driver present.
 
 
 ## Technical Skills
