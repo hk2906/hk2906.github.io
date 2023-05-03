@@ -18,6 +18,14 @@ Creating a KWin script for KDE Plasma that dynamically creates and removes virtu
 
 [View on GitHub](https://github.com/hk2906/dynamic-desktops)
 
+**2022-23: AC4 Algorithm in Python**
+
+Implemented the AC4 algorithm for arc-consistency in python, and tested my implementation using instances of the N-Queens problem.
+
+**2022-23: Modelling Supply Chains **
+
+Created a representation of a supply chain problem in ePrime, such that a constraint solver could be used to find the optimal solution.
+
 **2022: Model-Driven Development of Questionnaires**
 
 Used the [Eclipse Modelling Framework](https://www.eclipse.org/modeling/emf/) to create a domain-specific language (DSL) for documenting and implementing questionnaires. Created a [Sirius](https://www.eclipse.org/sirius/overview.html)-based viewer for the graphical representation of questionnaires written in my DSL. Used the [Epsilon](https://www.eclipse.org/epsilon/) family of scripting languages to validate and automatically create functioning Java implementations of a questionnaire written in my DSL
