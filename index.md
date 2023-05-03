@@ -22,7 +22,7 @@ Creating a KWin script for KDE Plasma that dynamically creates and removes virtu
 
 Implemented the AC4 algorithm for arc-consistency in python, and tested my implementation using instances of the N-Queens problem.
 
-**2022-23: Modelling Supply Chains **
+**2022-23: Modelling Supply Chains**
 
 Created a representation of a supply chain problem in ePrime, such that a constraint solver could be used to find the optimal solution.
 
