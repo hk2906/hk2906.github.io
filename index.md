@@ -10,7 +10,7 @@ Currently working as part of a team to develop a system for creating digital twi
 
 **2023: Parallelising Fluid Dynamics Solver**
 
-Issued a computational fluid dynamics solver for simulating a Karman vortex street, written in C.  Created 3 parallelised versions of the program, using OpenMP, CUDA, and MPI.
+Issued a computational fluid dynamics solver for simulating a Karman vortex street, written in C. Created 3 parallelised versions of the program, using OpenMP, CUDA, and MPI.
 
 **2023: KWin Dynamic Desktops**
 
@@ -19,10 +19,7 @@ Creating a KWin script for KDE Plasma that dynamically creates and removes virtu
 [View on GitHub](https://github.com/hk2906/dynamic-desktops)
 
 **2022: Model-Driven Development of Questionnaires**
-
-- Used the [Eclipse Modelling Framework](https://www.eclipse.org/modeling/emf/) to create a domain-specific language (DSL) for documenting and implementing questionnaires
-- Created a [Sirius](https://www.eclipse.org/sirius/overview.html)-based viewer for the graphical representation of questionnaires written in my DSL
-- Used the [Epsilon](https://www.eclipse.org/epsilon/) family of scripting languages to validate and automatically create functioning Java implementations of a questionnaire written in my DSL
+Used the [Eclipse Modelling Framework](https://www.eclipse.org/modeling/emf/) to create a domain-specific language (DSL) for documenting and implementing questionnaires. Created a [Sirius](https://www.eclipse.org/sirius/overview.html)-based viewer for the graphical representation of questionnaires written in my DSL. Used the [Epsilon](https://www.eclipse.org/epsilon/) family of scripting languages to validate and automatically create functioning Java implementations of a questionnaire written in my DSL
 
 **2021-22: Third Year Project - How Important is a City Street?**
 
