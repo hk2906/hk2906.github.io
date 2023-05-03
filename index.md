@@ -18,6 +18,10 @@ Creating a KWin script for KDE Plasma that dynamically creates and removes virtu
 
 [View on GitHub](https://github.com/hk2906/dynamic-desktops)
 
+**2022-23: Classification & Generation of Hand Drawn Tree Symbols**
+
+Used PyTorch to create a convolutional neural network to classify hand drawn tree symbols, and created a generative adversarial network to generate tree symbols of a specific class.
+
 **2022-23: AC4 Algorithm in Python**
 
 Implemented the AC4 algorithm for arc-consistency in python, and tested my implementation using instances of the N-Queens problem.
