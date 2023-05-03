@@ -24,7 +24,7 @@ Implemented the AC4 algorithm for arc-consistency in python, and tested my imple
 
 **2022-23: Modelling Supply Chains**
 
-Created a representation of a supply chain problem in ePrime, such that a constraint solver could be used to find the optimal solution.
+Created a representation of a supply chain problem in EssencePrime, such that a constraint solver could be used to find the optimal solution.
 
 **2022: Model-Driven Development of Questionnaires**
 
