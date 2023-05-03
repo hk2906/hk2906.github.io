@@ -18,9 +18,15 @@ Creating a KWin script for KDE Plasma that dynamically creates and removes virtu
 
 [View on GitHub](https://github.com/hk2906/dynamic-desktops)
 
+**2022: Model-Driven Development of Questionnaires**
+
+- Used the [Eclipse Modelling Framework](https://www.eclipse.org/modeling/emf/) to create a domain-specific language (DSL) for documenting and implementing questionnaires
+- Created a [Sirius](https://www.eclipse.org/sirius/overview.html)-based viewer for the graphical representation of questionnaires written in my DSL
+- Used the [Epsilon](https://www.eclipse.org/epsilon/doc/evl/) family of scripting languages to validate and automatically create functioning Java implementations of a questionnaire written in my DSL
+
 **2021-22: Third Year Project - How Important is a City Street?**
 
-Identifying ideal streets for pedestrianisation, using Python and data from OpenStreetMap to estimate the importance of streets using the Eigendata Centrality, and performing simple traffic flow analysis to estimate the impact of closing important roads to vehicles
+Identified ideal streets for pedestrianisation, using Python and data from OpenStreetMap to estimate the importance of streets using the Eigendata Centrality, and performed simple traffic flow analysis to estimate the impact of closing important roads to vehicles
 
 [View on GitHub](https://github.com/hk2906/Undergrad-Project)
 
