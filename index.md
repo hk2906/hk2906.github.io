@@ -71,13 +71,13 @@ Managed a busy takeaway both individually and as part of a team. Co-ordinated em
 
 - Quick to learn new programming languages and tools
 
-- Programming skills in Python, Java, C, and Haskell
+- Coding skills in Python, Java, C, and Haskell. Experience with HTML & JavaScript
 
 - Understanding and experience with machine learning libraries such as PyTorch and Scikit-learn
 
-- Experience with SQL, including complex requests as part of previous projects
+- Experience with SQL, including complex queries as part of previous projects
 
-- Experience with Git, used for both personal and university projects
+- Experience with Git, used for both personal and university projects, as well as Continuous Integration practices
 
 - Experience with languages and tools such as EssencePrime & Savile Row, the Eclipse Modeling Framework, and the KWin scripting API
 
