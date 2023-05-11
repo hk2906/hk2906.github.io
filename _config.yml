@@ -5,5 +5,9 @@ description: Fourth year computer science student at the University of York.  Av
 show_downloads: false
 logo: assets/profile.jpg
 
+cv:
+  url: assets/Harry Kelly CV.pdf
+  text: Download CV
+
 github:
   is_project_page: false
