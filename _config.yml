@@ -6,7 +6,7 @@ show_downloads: false
 logo: assets/profile.jpg
 
 cv:
-  url: https://www.harrykelly.me/assets/Harry Kelly CV.pdf
+  url: https://www.harrykelly.me/assets/HarryKellyCV.pdf
   text: View CV
 
 github:
