@@ -8,10 +8,6 @@ I am a fourth year computer science student eager to apply my skills and knowled
 
 Currently working as part of a team to develop a system for creating digital twins, and using the system on a “Mars rover” built using the Lego Spike kit
 
-**2023: Parallelising Fluid Dynamics Solver**
-
-Issued a computational fluid dynamics solver for simulating a Karman vortex street, written in C. Created 3 parallelised versions of the program, using OpenMP, CUDA, and MPI.
-
 **2023: KWin Dynamic Desktops**
 
 Creating a KWin script for KDE Plasma that dynamically creates and removes virtual desktops in a manner similar to GNOME workspaces, whilst supporting the ability to maximise windows to a new virtual desktop
