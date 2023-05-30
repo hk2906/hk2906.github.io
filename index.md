@@ -1,6 +1,5 @@
 ## About Me
-I am a fourth year computer science student eager to apply my skills and knowledge in a professional setting. As a team leader at a takeaway restaurant I gained leadership skills, and studying for my degree during the pandemic has taught me a combination of both independent and team working skills, in both an in-person and remote working setting. I am excited to continue my professional development and contribute to innovative and impactful projects.
-
+I am a computer science graduand eager to apply my skills and knowledge in a professional setting. Throughout my degree, and my previous work, I have worked both independently and as part of multiple teams in a variety of roles, in both in-person and remote working environments. I am excited to continue my professional development and contribute to innovative and impactful projects.
 
 ## Projects
 
@@ -54,8 +53,9 @@ Developed a set of tools to streamline the menus of restaurants and fast food bu
 ## Education
 
 **2019 - 2023: MEng Computer Science, University of York**
-- Currently averaging a First-class Honours
-- Modules include Intelligent Systems, Model-Driven Engineering, Evolutionary Computing, Network Security, Constraint Solving, and Computer Vision
+- Graduating July 2023
+- Currently predicted a First-class Honours
+- Modules include Software Development, Intelligent Systems, Probabilistic & Deep Learning, Model-Driven Engineering, Evolutionary Computing, Constraint Programming, and Computer Vision
 
 **2017 - 2019: The Blue Coat School, Oldham**
 - A Level: Mathematics (A*), Computer Science (A), Physics (B)
