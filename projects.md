@@ -2,7 +2,7 @@
 
 **2023: Master's Group Project - Digital Twins**
 
-Currently working as part of a team to develop a system for creating digital twins, and using the system on a “Mars rover” built using the Lego Spike kit
+Worked as part of a team to create a “Mars rover” using the Lego Spike kit, and a corresponding digital twin. Implemented a message system for hub-to-hub communications using Pybrick’s Bluetooth data broadcasting feature. Wrote rover logic, including an emergency stop system, using the MicroPython-based Pybricks APIWorked as part of a team to create a “Mars rover” using the Lego Spike kit, and a corresponding digital twin. Implemented a message system for hub-to-hub communications using Pybrick’s Bluetooth data broadcasting feature. Wrote rover logic, including an emergency stop system, using the MicroPython-based Pybricks API
 
 **2023: KWin Dynamic Desktops**
 
