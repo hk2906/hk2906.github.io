@@ -1,6 +1,7 @@
 ## About Me
 I am a computer science graduand eager to apply my skills and knowledge in a professional setting. Throughout my degree, and my previous work, I have worked both independently and as part of multiple teams in a variety of roles, in both in-person and remote working environments. I am excited to continue my professional development and contribute to innovative and impactful projects.
 
+---
 ## Projects
 
 **2023: Master's Group Project - Digital Twins**
@@ -49,6 +50,7 @@ Managing an Ubuntu server acting as a NAS, personal VPN, and web server. Require
 
 Developed a set of tools to streamline the menus of restaurants and fast food businesses. Used Java and SQL to analyse a set of menus, recipes, and sales data to identify ingredients required for dishes that make a low overall profit. The tools considered the cost to purchase ingredients, the price of dishes, and the sales figures for every dish
 
+---
 
 ## Education
 
