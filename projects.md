@@ -8,11 +8,11 @@ Worked as part of a team to create a “Mars rover” using the Lego Spike kit, 
 
 **2022-23: Classification & Generation of Images**
 
-Used PyTorch to create a convolutional neural network to classify hand drawn tree symbols, and created a generative adversarial network to generate tree symbols of specific classes.
+Used PyTorch to create a convolutional neural network to classify hand drawn tree symbols, and created a generative adversarial network to generate tree symbols of specific classes
 
 **2022-23: Constraint solving with Python and EssencePrime**
 
-Implemented the AC4 algorithm for arc-consistency in Python, and tested my implementation using instances of the N-Queens problem.  Created a representation of a supply chain problem in EssencePrime, such that a constraint solver could be used to find the optimal solution.
+Implemented the AC4 algorithm for arc-consistency in Python, and tested my implementation using instances of the N-Queens problem.  Created a representation of a supply chain problem in EssencePrime, such that a constraint solver could be used to find the optimal solution
 
 **2022: Model-Driven Development of Questionnaires**
 
