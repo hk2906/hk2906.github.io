@@ -20,10 +20,6 @@ Part of a team with no previous game development experience who developed a 2D g
 
 View at [Team's website](https://team-zanetta.github.io/) and [GitHub Organisation](https://github.com/Team-Zanetta) 
 
-**2018: Menu Streamlining Toolkit**
-
-Developed a set of tools to streamline the menus of restaurants and fast food businesses. Used Java and SQL to analyse a set of menus, recipes, and sales data to identify ingredients required for dishes that make a low overall profit. The tools considered the cost to purchase ingredients, the price of dishes, and the sales figures for every dish
-
 ---
 # Education
 
