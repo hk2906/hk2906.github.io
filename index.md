@@ -1,5 +1,5 @@
 # About Me
-I am a computer science graduand eager to apply my skills and knowledge in a professional setting. Throughout my degree, and my previous work, I have worked both independently and as part of multiple teams in a variety of roles, in both in-person and remote working environments. I am excited to continue my professional development and contribute to innovative and impactful projects.
+I am a computer science graduand eager to apply my skills and knowledge in a professional setting. Throughout my degree, and my previous work, I have worked both independently and as part of multiple teams in a variety of roles, in both in-person and remote working environments. I am excited to continue my professional development and contribute to innovative and impactful projects
 
 ---
 # Projects
@@ -38,10 +38,10 @@ Part of a team with no previous game development experience who developed a 2D g
 # Work & Voluntary Experience
 
 **2020 - 2022: President, Comic Society, University of York**
-Lead a team to host weekly events and foster a community, both in-person and online, during a difficult period for societies.
+Lead a team to host weekly events and foster a community, both in-person and online, during a difficult period for societies
 
 **2017 - 2019: Team Leader, Blue Ginger, Oldham**
-Managed a busy takeaway both individually and as part of a team. Co-ordinated employees, took and organised orders, prepared food, opened and closed the shop, handled large amounts of money, documented daily revenue and expenses, trained new employees, and scheduled shifts. Worked well in a busy kitchen, whilst also serving customers, and communicated clearly with staff members for whom English is a second language. Lead the team during busier periods, and ensured the whole team worked well under intense situations. Also operated the shop independently, with only a chef and a delivery driver present.
+Managed a busy takeaway both individually and as part of a team. Co-ordinated employees, took and organised orders, prepared food, opened and closed the shop, handled large amounts of money, documented daily revenue and expenses, trained new employees, and scheduled shifts. Worked well in a busy kitchen, whilst also serving customers, and communicated clearly with staff members for whom English is a second language. Lead the team during busier periods, and ensured the whole team worked well under intense situations. Also operated the shop independently, with only a chef and a delivery driver present
 
 ---
 # Technical Skills
