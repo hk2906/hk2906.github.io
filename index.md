@@ -12,13 +12,11 @@ Worked as part of a team to create a “Mars rover” using the Lego Spike kit, 
 
 Identified ideal streets for pedestrianisation, using Python and data from OpenStreetMap to estimate the importance of streets using the Eigendata Centrality, and performed simple traffic flow analysis to estimate the impact of closing important roads to vehicles
 
-[View on GitHub](https://github.com/hk2906/Undergrad-Project)
 
 **2020-2021: Java Game Group Project**
 
 Part of a team with no previous game development experience who developed a 2D game in Java based on a list of requirements, and improved a game created by another team. Learned to use LibGDX, use Git, and work as part of a remote team based in multiple countries
 
-View at [Team's website](https://team-zanetta.github.io/) and [GitHub Organisation](https://github.com/Team-Zanetta) 
 
 ---
 # Education
