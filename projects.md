@@ -4,23 +4,15 @@
 
 Worked as part of a team to create a “Mars rover” using the Lego Spike kit, and a corresponding digital twin. Implemented a message system for hub-to-hub communications using Pybrick’s Bluetooth data broadcasting feature. Wrote rover logic, including an emergency stop system, using the MicroPython-based Pybricks APIWorked as part of a team to create a “Mars rover” using the Lego Spike kit, and a corresponding digital twin. Implemented a message system for hub-to-hub communications using Pybrick’s Bluetooth data broadcasting feature. Wrote rover logic, including an emergency stop system, using the MicroPython-based Pybricks API
 
-**2023: KWin Dynamic Desktops**
+[View on GitHub](https://github.com/GPIG-Group-B/GPIG-Digital-Twin/tree/feature/mock_pybricks)
 
-Creating a KWin script for KDE Plasma that dynamically creates and removes virtual desktops in a manner similar to GNOME workspaces, whilst supporting the ability to maximise windows to a new virtual desktop
+**2022-23: Classification & Generation of Images**
 
-[View on GitHub](https://github.com/hk2906/dynamic-desktops)
+Used PyTorch to create a convolutional neural network to classify hand drawn tree symbols, and created a generative adversarial network to generate tree symbols of specific classes.
 
-**2022-23: Classification & Generation of Hand Drawn Tree Symbols**
+**2022-23: Constraint solving with Python and EssencePrime**
 
-Used PyTorch to create a convolutional neural network to classify hand drawn tree symbols, and created a generative adversarial network to generate tree symbols of a specific class.
-
-**2022-23: AC4 Algorithm in Python**
-
-Implemented the AC4 algorithm for arc-consistency in python, and tested my implementation using instances of the N-Queens problem.
-
-**2022-23: Modelling Supply Chains**
-
-Created a representation of a supply chain problem in EssencePrime, such that a constraint solver could be used to find the optimal solution.
+Implemented the AC4 algorithm for arc-consistency in Python, and tested my implementation using instances of the N-Queens problem.  Created a representation of a supply chain problem in EssencePrime, such that a constraint solver could be used to find the optimal solution.
 
 **2022: Model-Driven Development of Questionnaires**
 
