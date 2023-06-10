@@ -16,6 +16,8 @@ Identified ideal streets for pedestrianisation, using Python and data from OpenS
 
 Part of a team with no previous game development experience who developed a 2D game in Java based on a list of requirements, and improved a game created by another team. Learned to use LibGDX, use Git, and work as part of a remote team based in multiple countries
 
+[View more](projects.md)
+
 ---
 # Education
 
