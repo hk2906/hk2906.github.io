@@ -1,8 +1,8 @@
-# About Me
+## About Me
 I am a computer science graduand eager to apply my skills and knowledge in a professional setting. Throughout my degree, and my previous work, I have worked both independently and as part of multiple teams in a variety of roles, in both in-person and remote working environments. I am excited to continue my professional development and contribute to innovative and impactful projects
 
 ---
-# Projects
+## Projects
 
 [View all projects](projects.md)
 
@@ -19,7 +19,7 @@ Identified ideal streets for pedestrianisation, using Python and data from OpenS
 Part of a team with no previous game development experience who developed a 2D game in Java based on a list of requirements, and improved a game created by another team. Learned to use LibGDX, use Git, and work as part of a remote team based in multiple countries
 
 ---
-# Education
+## Education
 
 **2019 - 2023: MEng Computer Science, University of York**
 - Graduating July 2023
@@ -35,7 +35,7 @@ Part of a team with no previous game development experience who developed a 2D g
 - 8 GCSEs: 2 A*s (Computer Science & Further Mathematics), 6 As
 
 ---
-# Work & Voluntary Experience
+## Work & Voluntary Experience
 
 **2020 - 2022: President, Comic Society, University of York**
 Lead a team to host weekly events and foster a community, both in-person and online, during a difficult period for societies
@@ -44,7 +44,7 @@ Lead a team to host weekly events and foster a community, both in-person and onl
 Managed a busy takeaway both individually and as part of a team. Co-ordinated employees, took and organised orders, prepared food, opened and closed the shop, handled large amounts of money, documented daily revenue and expenses, trained new employees, and scheduled shifts. Worked well in a busy kitchen, whilst also serving customers, and communicated clearly with staff members for whom English is a second language. Lead the team during busier periods, and ensured the whole team worked well under intense situations. Also operated the shop independently, with only a chef and a delivery driver present
 
 ---
-# Technical Skills
+## Technical Skills
 
 - Quick to learn new programming languages and tools
 
@@ -61,7 +61,7 @@ Managed a busy takeaway both individually and as part of a team. Co-ordinated em
 - Experience using Windows and Linux both in the command line and with desktop environments such as GNOME, KDE Plasma, and Xfce
 
 ---
-# Interests
+## Interests
 
 - Software development, with a focus on legibility and good documentation
 
