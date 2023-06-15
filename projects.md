@@ -10,9 +10,14 @@ Worked as part of a team to create a “Mars rover” using the Lego Spike kit, 
 
 Used PyTorch to create a convolutional neural network to classify hand drawn tree symbols, and created a generative adversarial network to generate tree symbols of specific classes, including interpolation between samples.  Completed as part of a module on [probabilistic & deep learning](degree.md#probabilistic--deep-learning)
 
+Training set:
 ![Training set](assets\int3\training-set.png)
+
+Generated images:
 ![Generated images](assets\int3\generated-images.png)
-![Interpolation between samples](assets\int3\interpolation.png)
+
+Interpolation between images:
+![Interpolation between images](assets\int3\interpolation.png)
 
 ### 2022-23: Constraint solving with Python and EssencePrime
 
