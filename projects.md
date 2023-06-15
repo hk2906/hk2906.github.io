@@ -19,6 +19,8 @@ Generated images:
 Interpolation between images:
 ![Interpolation between images](assets\int3\interpolation.png)
 
+[View on GitHub](https://github.com/hk2906/Classification-and-Generation-of-Images)
+
 ### 2022-23: Constraint solving with Python and EssencePrime
 
 Implemented the AC4 algorithm for arc-consistency in Python, and tested my implementation using instances of the N-Queens problem.  Created a representation of a supply chain problem in EssencePrime, such that a constraint solver could be used to find the optimal solution
