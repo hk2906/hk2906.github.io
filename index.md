@@ -4,6 +4,8 @@ I am a computer science graduand eager to apply my skills and knowledge in a pro
 ---
 # Projects
 
+[View all projects](projects.md)
+
 **2023: Master's Group Project - Mars Rover & Digital Twin**
 
 Worked as part of a team to create a “Mars rover” using the Lego Spike kit, and a corresponding digital twin. Implemented a message system for hub-to-hub communications using Pybrick’s Bluetooth data broadcasting feature. Wrote rover logic, including an emergency stop system, using the MicroPython-based Pybricks API
@@ -15,8 +17,6 @@ Identified ideal streets for pedestrianisation, using Python and data from OpenS
 **2020-2021: Java Game Group Project**
 
 Part of a team with no previous game development experience who developed a 2D game in Java based on a list of requirements, and improved a game created by another team. Learned to use LibGDX, use Git, and work as part of a remote team based in multiple countries
-
-[View more](projects.md)
 
 ---
 # Education
