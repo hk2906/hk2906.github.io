@@ -7,8 +7,7 @@ logo: assets/profile.jpg
 
 cv:
   show: true
-  url: https://github.com/hk2906/hk2906.github.io/blob/main/assets/HarryKellyCV.pdf
-  oldurl: https://www.harrykelly.me/assets/HarryKellyCV.pdf
+  url: https://www.harrykelly.me/assets/HarryKellyCV.pdf
   text: View CV
 
 github:
