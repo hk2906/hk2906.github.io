@@ -23,7 +23,7 @@ Part of a team with no previous game development experience who developed a 2D g
 
 **2019 - 2023: MEng Computer Science, University of York**
 - Graduating July 2023
-- Currently predicted a First-class Honours
+- To be awarded a First-class Honours
 - Modules include Software Development, Intelligent Systems, Probabilistic & Deep Learning, Model-Driven Engineering, Evolutionary Computing, Constraint Programming, and Computer Vision
 
 **2017 - 2019: The Blue Coat School, Oldham**
