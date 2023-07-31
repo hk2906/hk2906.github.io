@@ -1,5 +1,5 @@
 ## About Me
-I am a computer science graduand eager to apply my skills and knowledge in a professional setting. Throughout my degree, and my previous work, I have worked both independently and as part of multiple teams in a variety of roles, in both in-person and remote working environments. I am excited to continue my professional development and contribute to innovative and impactful projects
+I am a computer science graduate eager to apply my skills and knowledge in a professional setting. Throughout my degree, and my previous work, I have worked both independently and as part of multiple teams in a variety of roles, in both in-person and remote working environments. I am excited to continue my professional development and contribute to innovative and impactful projects
 
 ---
 ## Projects
