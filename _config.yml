@@ -1,12 +1,12 @@
 theme: jekyll-theme-minimal
 title: Harry Kelly
 pronouns: he/they
-description: MEng Computer Science Graduate, University of York
+description: Software Technician, AGH Engineering, York
 show_downloads: false
 logo: assets/profile.jpg
 
 cv:
-  show: true
+  show: false
   url: https://www.harrykelly.me/assets/HarryKellyCV.pdf
   text: View CV
 
