@@ -5,6 +5,8 @@
         "orderedlist",
         "Pybricks",
         "Savile",
-        "Scikit"
+        "Scikit",
+        "Timesheet",
+        "timesheets"
     ]
 }

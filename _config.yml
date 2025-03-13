@@ -6,7 +6,7 @@ show_downloads: false
 logo: assets/profile.jpg
 
 cv:
-  show: false
+  show: true
   url: https://www.harrykelly.me/assets/HarryKellyCV.pdf
   text: View CV
 
