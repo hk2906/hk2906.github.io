@@ -16,7 +16,7 @@ Managed a busy takeaway both individually and as part of a team. Co-ordinated em
 ## Education
 
 **2019 - 2023: MEng Computer Science, University of York**
-- Graduaed July 2023
+- Graduated July 2023
 - Awarded a First-class Honours
 - Modules include Software Development, Intelligent Systems, Probabilistic & Deep Learning, Model-Driven Engineering, Evolutionary Computing, Constraint Programming, and Computer Vision
 
@@ -48,7 +48,7 @@ Managed a busy takeaway both individually and as part of a team. Co-ordinated em
 
 **2023: Master's Group Project - Mars Rover & Digital Twin**
 
-Worked as part of a team to create a “Mars rover” using the Lego Spike kit, and a corresponding digital twin. Implemented a message system for hub-to-hub communications using Pybrick’s Bluetooth data broadcasting feature. Wrote rover logic, including an emergency stop system, using the MicroPython-based Pybricks API
+Worked as part of a team to create a “Mars rover” using the Lego Spike kit, and a corresponding digital twin. Implemented a message system for hub-to-hub communications using Pybricks' Bluetooth data broadcasting feature. Wrote rover logic, including an emergency stop system, using the MicroPython-based Pybricks API
 
 **2021-22: Third Year Project - How Important is a City Street?**
 
@@ -71,7 +71,7 @@ Part of a team with no previous game development experience who developed a 2D g
 
 - Experience with Git, used for both personal and university projects, as well as Continuous Integration practices
 
-- Experience with languages and tools such as EssencePrime & Savile Row, the Eclipse Modeling Framework, and the KWin scripting API
+- Experience with languages and tools such as EssencePrime & Savile Row, the Eclipse EMF, and the KWin scripting API
 
 - Experience using Windows and Linux both in the command line and with desktop environments such as GNOME, KDE Plasma, and Xfce
 
