@@ -1,10 +1,17 @@
 ## About Me
-I am a computer science graduate now working as a software developer in the rail industry. I am a member of the IET, and professionally registered as an ICT Technician, working towards IEng. Throughout my degree, and my previous work, I have worked both independently and as part of multiple teams in a variety of roles, in both in-person and remote working environments. I am excited to continue my professional development and contribute to innovative and impactful projects
+Software developer with 3+ years’ experience in full-stack development across healthcare and rail
 
 ---
 ## Work & Voluntary Experience
-**2023 - present: Software Technician, AGH Engineering, York**
-Leading a team developing software for the rail industry, working towards Incorporated  Engineer status
+**2026 - Present: Consultant (Developer), Netcompany, Leeds**
+Python + React projects within public sector healthcare.
+
+**2023 - 2026: Software Technician (Developer), AGH Engineering, York**
+- Lead development of multiple bespoke web apps for use internally and by Network Rail.
+- Acted as a key technical point of reference within my team.
+- Took ownership of multiple projects from design to delivery, including client engagement, requirements gathering, implementation, testing, and ongoing improvement.
+- Supported colleagues by providing technical guidance relating to our codebase and product design.
+- Applied agile practices, CI/CD, Git version control, and peer reviews.
 
 **2020 - 2022: President, Comic Society, University of York**
 Lead a team, hosted weekly events, and fostered a community - both in-person and online - during a difficult period for societies
